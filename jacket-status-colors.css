@@ -1,0 +1,13 @@
+.posts th.check-column { border-left: 4px solid rgba(0, 0, 0, 0); }
+
+.posts .status-draft th.check-column { border-left-color: #6C7781; }
+.posts .status-draft td, .posts .status-draft th { background-color: #F9F9F9; }
+
+.posts .status-trash th.check-column { border-left-color: #DC3232; }
+.posts .status-trash td, .posts .status-trash th { background-color: #FBEAEA; }
+
+.posts .status-publish th.check-column { border-left-color: #46B450; }
+.posts .status-publish td, .posts .status-publish th { background-color: #ECF7ED; }
+
+.posts .status-pending th.check-column { border-left-color: #FFB900; }
+.posts .status-pending td, .posts .status-pending th { background-color: #FEF0E9; }
